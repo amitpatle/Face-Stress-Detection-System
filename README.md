@@ -3,6 +3,9 @@
 
 # Face-Stress-Detection-System
 <h1>```    📂Public Repo Soon     ```</h1>
+
+![Activities](https://repobeats.axiom.co/api/embed/36c848d186683e57314ced1d533844bdec377342.svg "Repobeats analytics image")
+
 </div>
 
 # WHY PYTHON ❗
