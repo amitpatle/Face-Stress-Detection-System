@@ -1,8 +1,9 @@
-# Face-Stress-Detection-System
-Creating a face stress detection system involves several steps, combining computer vision, machine learning, and possibly deep learning techniques.
----
-<h1>-- 📂Public Repo Soon--</h1>
+<div align="center">
+<a href="https://ibb.co/PtsGLCP"><img src="https://i.ibb.co/pn6j7XM/1.png" alt="1" border="0"></a>
 
+# Face-Stress-Detection-System
+<h1>```    📂Public Repo Soon     ```</h1>
+</div>
 
 # WHY PYTHON ❗
 For a face stress detection system project, Python is often the best choice for several reasons:
